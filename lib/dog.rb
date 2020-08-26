@@ -7,3 +7,5 @@ def Dog
     puts "woof!"
   end
 end
+
+fido 
