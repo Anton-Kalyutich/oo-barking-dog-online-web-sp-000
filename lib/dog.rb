@@ -8,4 +8,4 @@ def Dog
   end
 end
 
-fido 
+fido = Dog.new
